@@ -9,4 +9,4 @@ def sum_distance(from_num, to_num):
         total += num
 
     return total
-print(sum_distance(5, 1))
+print('Расстояние теперь:' + sum_distance(5, 1))
