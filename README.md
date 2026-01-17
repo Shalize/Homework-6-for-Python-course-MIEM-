@@ -1,0 +1,1 @@
+# Homework-6-for-Python-course-MIEM-
